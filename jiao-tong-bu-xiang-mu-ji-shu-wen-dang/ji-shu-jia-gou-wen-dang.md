@@ -1,23 +1,16 @@
 # 技术架构文档
 
-## Getting Super Powers
+## 项目架构说明
 
-Becoming a super hero is a fairly straight forward process:
+![](../.gitbook/assets/jiao-tong-bu-jia-gou-tu.png)
 
-```
-$ give me super-powers
-```
+### 总览：
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
+#### 前端入口：
 
-Once you're strong enough, save the world:
+界面展示，使用restfulAPI和后端交互
 
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+#### 后端服务
 
-
+#### 底层网络
 
