@@ -206,7 +206,7 @@ cp app.file app
 
 为了方便下次部署可以将当前云服务器在控制台界面保存为镜像快照，下次部署新的机器可以免去安装docker等工具软件的过程
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 
 

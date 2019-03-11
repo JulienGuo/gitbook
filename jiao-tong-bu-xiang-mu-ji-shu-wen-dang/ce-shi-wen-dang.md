@@ -239,7 +239,7 @@ application/json
 {% endapi-method-spec %}
 {% endapi-method %}
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 {% api-method method="post" host="http://ip:port/v1/changeStatus" path="" %}
 {% api-method-summary %}

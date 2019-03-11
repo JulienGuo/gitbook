@@ -1,6 +1,8 @@
 # 前端代码说明文档
 
-## Getting Super Powers
+## 根目录说明
+
+![](../.gitbook/assets/image%20%2832%29.png)
 
 * Docker — 包含nginx配置和Dockerfile
 * ci — 包含ci部署执行的脚本，通过git submodule方式挂载进来
